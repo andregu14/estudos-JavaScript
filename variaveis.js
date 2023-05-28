@@ -27,4 +27,6 @@ let nula = null
 
 console.log(nula)
 
-var variavel = 30
+var variavel = 30 // Não utilize o var
+
+const constante = 100 // Variável constante
